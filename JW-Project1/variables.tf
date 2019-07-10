@@ -69,3 +69,8 @@ variable "camdemo_resource_pool" {
   description = "Resource pool."
 }
 
+variable "network_network_name" {
+  type = "string"
+  description = "Generated"
+}
+
